@@ -1,6 +1,11 @@
 # nse-tryouts
 My attempt at writing nmap scripts. The vulnerable program has a buffer overflow vulnerability, and the script detects it and is able to exploit it, with a prepared payload.
 
+## DEMO  (Click to view video)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=SLjzacHK7V8
+" target="_blank"><img src="http://img.youtube.com/vi/SLjzacHK7V8/2.jpg" 
+alt="Demo Video for Nmap Script" width="240" height="180" border="10" /></a>
+
 ## vuln service setup
 Compile vuln with the following command:
 
